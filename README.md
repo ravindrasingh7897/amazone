@@ -70,10 +70,8 @@ HOST=http://localhost:3000
 
 ## Author
 
-👤 **Divyam Agarwal**
-
-- Website: [https://divyamag.vercel.app/](https://divyamag.vercel.app/)
-- Github: [@Divyam2600](https://github.com/Divyam2600)
+👤 Ravindra Singh Shekhawat
+👤 Harshit Goyal
 
 ## Show your support
 
